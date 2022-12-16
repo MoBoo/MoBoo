@@ -4,7 +4,7 @@ I'm a computer science student from Germany with a great interest in data engine
 ## 🖥️ Currently working on ...
   * Thesis on Schema Migration and Data Migration Techniques for Information Retrieval Systems
   * Contributing to [Darwin Schema Evolution Plattform](https://ceur-ws.org/Vol-3135/dataplat_short3.pdf)
-  * [Spotify Analytics Data Engineering Project](https://github.com/moboo/SpotifyAnalytics)
+  * [Spotify Analytics Data Engineering Project](https://github.com/moboo/spotify-analytics)
 ## 🚀 Recently finished ...
   * iSAQB Certified Professional for Software Architecture
   * AWS (passed AWS Certified Solutions Architect - Associate Certification)
